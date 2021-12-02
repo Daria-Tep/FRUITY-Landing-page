@@ -1,0 +1,518 @@
+                    @media screen and (max-width: 1315px) {
+                        .wz__title-container h1 {
+                            font-family: 'Gilroy-ExtraBold';
+                            font-size: 75px;
+                        }
+                        .featured-product {
+                            height: min-content;
+                        }
+                        .featured-product-container {
+                            padding-top: 7%;
+                            padding-bottom: 7%;
+                            height: min-content;
+                        }
+                        .featured-product__title {
+                            margin-bottom: 5%;
+                        }
+                        .featured-product-container {
+                            width: 100%;
+                        }
+                        .left-img-container {
+                            height: min-content;
+                        }
+                        .left__img_1 {
+                            padding-bottom: 25px;
+                        }
+                        .left__img_2 {
+                            padding-top: 25px;
+                        }
+                        .right-img-container {
+                            height: min-content;
+                            width: 45%;
+                        }
+                        .right__img_1 {
+                            padding-bottom: 20px;
+                        }
+                        .right__img_2 {
+                            padding-top: 20px;
+                        }
+                        .about-us__img-container img {
+                            width: 100%;
+                        }
+                    }
+                    
+                    @media screen and (max-width: 1200px) {
+                        .welcome-zone-text {
+                            width: 40%;
+                            height: 550px;
+                        }
+                        .text-container {
+                            width: 50%;
+                        }
+                    }
+                    
+                    @media screen and (max-width: 1160px) {
+                        .welcome-zone-text {
+                            width: 40%;
+                            height: 550px;
+                        }
+                        .featured-product-container {
+                            width: 90%;
+                        }
+                        .title-paragraph-container h3 {
+                            font-size: 35px;
+                        }
+                    }
+                    
+                    @media screen and (max-width: 1050px) {
+                        .simple-img-container {
+                            width: 42%;
+                        }
+                        .title-paragraph-container {
+                            height: min-content;
+                        }
+                        .benefit__icon {
+                            width: 55px;
+                            height: 55px;
+                        }
+                        .benefit-text h4 {
+                            font-size: 18px;
+                        }
+                        .benefit-text p {
+                            font-size: 17px;
+                        }
+                        .text-container {
+                            width: 52%;
+                        }
+                        .title-paragraph-container p {
+                            padding-top: 30px;
+                        }
+                    }
+                    
+                    @media screen and (max-width: 970px) {
+                        .featured-product-container {
+                            width: 97%;
+                        }
+                        .simple-img-container {
+                            display: none;
+                        }
+                        .text-container {
+                            width: 100%;
+                        }
+                        .how-it-work-container {
+                            justify-content: center;
+                        }
+                        .about-us__text-container p {
+                            padding-top: 20px;
+                            padding-bottom: 20px;
+                            font-size: 17px;
+                        }
+                    }
+                    
+                    @media screen and (max-width: 920px) {
+                        .burger-menu-container {
+                            display: flex;
+                        }
+                        .wz__title-container h1 {
+                            font-size: 55px;
+                        }
+                        .welcome-zone-text {
+                            height: 500px;
+                        }
+                        .top-nav {
+                            display: none;
+                        }
+                        .top-nav__menu {
+                            display: none;
+                        }
+                        .header-btn-container {
+                            display: none;
+                        }
+                        .burger-icon {
+                            display: flex;
+                        }
+                        .featured-product-container {
+                            width: 75%;
+                        }
+                        .featured-product__title h2 {
+                            font-size: 50px;
+                        }
+                        .about-us__text-container h4 {
+                            font-size: 50px;
+                        }
+                        .about-us__text-container p {
+                            padding-top: 25px;
+                            padding-bottom: 25px;
+                        }
+                        .about-us__text-container {
+                            height: min-content;
+                        }
+                        .customer-review-container h4 {
+                            font-size: 50px;
+                        }
+                        .review__main-frame-inner p {
+                            font-size: 17px;
+                        }
+                    }
+                    
+                    @media screen and (max-width: 780px) {
+                        .wz__title-container h1 {
+                            font-size: 47px;
+                        }
+                        .welcome-zone-text {
+                            height: 450px;
+                        }
+                        .wz__button {
+                            width: 185px;
+                            min-height: 60px;
+                        }
+                        .featured-product-container {
+                            width: 80%;
+                        }
+                        footer {
+                            height: min-content;
+                        }
+                        .footer-text-container {
+                            height: min-content;
+                            padding-top: 50px;
+                            padding-bottom: 50px;
+                            flex-wrap: wrap;
+                            width: 90%;
+                        }
+                        .footer__logo-container {
+                            height: 200px;
+                            padding-bottom: 20px;
+                        }
+                        .footer_community-container {
+                            width: 150px;
+                        }
+                        .footer-last-container {
+                            padding-top: 30px;
+                            padding-bottom: 30px;
+                        }
+                    }
+                    
+                    @media screen and (max-width: 725px) {
+                        .featured-product-container {
+                            width: 90%;
+                        }
+                        .benefit-text {
+                            width: 80%;
+                        }
+                        .review__main-frame-inner {
+                            height: min-content;
+                        }
+                        .review-man-container {
+                            padding-top: 45px;
+                        }
+                        .review__main-frame-inner p {
+                            font-size: 17px;
+                            width: 90%;
+                        }
+                    }
+                    
+                    @media screen and (max-width: 650px) {
+                        .fruit-banner {
+                            display: none;
+                        }
+                        .welcome-zone {
+                            justify-content: center;
+                        }
+                        .welcome-zone-text {
+                            height: 400px;
+                            width: 83%;
+                        }
+                        .wz__title-container h1 {
+                            font-size: 65px;
+                        }
+                        .featured-product__title h2 {
+                            font-size: 55px;
+                        }
+                    }
+                    
+                    @media screen and (max-width: 644px) {
+                        .fp__card-container {
+                            flex-direction: column;
+                            align-items: center;
+                            align-content: center;
+                        }
+                        .featured-product-container {
+                            align-items: center;
+                        }
+                    }
+                    
+                    @media screen and (max-width: 640px) {
+                        .fp__card {
+                            margin-bottom: 27px;
+                        }
+                        .review__main-frame-inner img {
+                            width: 33%;
+                        }
+                        .footer-last-container p {
+                            font-size: 16px;
+                        }
+                        .burger_button-container {
+                            width: 80%;
+                        }
+                        .burger_button-container .contact__btn {
+                            margin-right: 10px;
+                        }
+                    }
+                    
+                    @media screen and (max-width: 550px) {
+                        .welcome-zone-text {
+                            height: 320px;
+                            width: 65%;
+                        }
+                        .wz__title-container h1 {
+                            font-size: 45px;
+                        }
+                        .wz__paragraph-container p {
+                            font-family: 'Sofia Pro Regular';
+                            font-size: 14px;
+                            line-height: 120%;
+                        }
+                        .featured-product__title h2 {
+                            font-size: 40px;
+                        }
+                        .featured-product-container {
+                            align-items: center;
+                        }
+                        .fp__card-container {
+                            flex-direction: row;
+                            align-items: center;
+                            align-content: none;
+                            width: 98%;
+                        }
+                        .fp__card {
+                            margin-bottom: 27px;
+                            width: 217px;
+                            height: 290px;
+                        }
+                        .input-container {
+                            width: 113px;
+                            height: 28px;
+                        }
+                        .name-price-container h3 {
+                            font-size: 18px;
+                        }
+                        .card_btn {
+                            width: 93px;
+                            height: 33px;
+                        }
+                        .name-price-container {
+                            height: 68px;
+                        }
+                        .title-paragraph-container p {
+                            font-size: 15px;
+                        }
+                        .title-paragraph-container h3 {
+                            font-size: 33px;
+                        }
+                        .about-us__text-container h4 {
+                            font-size: 40px;
+                        }
+                        .about-us__text-container p {
+                            font-size: 15px;
+                        }
+                        .about-us {
+                            height: min-content;
+                        }
+                        .about-us-container {
+                            height: min-content;
+                            padding-top: 80px;
+                            padding-bottom: 80px;
+                        }
+                        .customer-review-container h4 {
+                            font-size: 40px;
+                        }
+                        .review-arrow-left,
+                        .review-arrow-right {
+                            width: 55px;
+                            height: 55px
+                        }
+                        .customer-review-container {
+                            width: 92%;
+                        }
+                    }
+                    
+                    @media screen and (max-width: 540px) {
+                        .fp__card-container {
+                            width: 50%;
+                        }
+                        .top-nav__burger {
+                            flex-direction: column;
+                            justify-content: space-around;
+                            align-items: center;
+                            width: 90%;
+                            height: 50%;
+                        }
+                        .top-nav__burger a {
+                            font-size: 25px;
+                        }
+                        .burger_button-container {
+                            justify-content: center;
+                        }
+                        .burger_button-container {
+                            width: 70%;
+                        }
+                        .burger-img {
+                            display: none;
+                        }
+                    }
+                    
+                    @media screen and (max-width: 490px) {
+                        .welcome-zone-text {
+                            height: 320px;
+                            width: 65%;
+                        }
+                        .wz__title-container h1 {
+                            font-size: 35px;
+                        }
+                        .wz__paragraph-container p {
+                            font-family: 'Sofia Pro Regular';
+                            font-size: 12px;
+                        }
+                        .wz__button {
+                            width: 140px;
+                            min-height: 50px;
+                        }
+                        .wz__button-inner {
+                            justify-content: space-around;
+                            width: 122px;
+                            height: 18px;
+                        }
+                        .wz__button-inner span {
+                            font-size: 15px;
+                        }
+                        .wz__button-inner img {
+                            width: 13%;
+                        }
+                        .featured-product__title h2 {
+                            font-size: 30px;
+                        }
+                        .featured-product-container {
+                            align-items: center;
+                            width: 100%;
+                        }
+                        .fp__card-container {
+                            width: 90%;
+                            align-items: center;
+                            justify-content: center;
+                        }
+                        .benefit-text p {
+                            padding-top: 8px;
+                        }
+                        .about-us-container {
+                            flex-direction: column;
+                        }
+                        .about-us__text-container {
+                            width: 90%;
+                        }
+                        .about-us__img-container {
+                            width: 90%;
+                            margin-top: 50px;
+                        }
+                        .review__main-frame-inner p {
+                            font-size: 15px;
+                            width: 85%;
+                        }
+                        .review-man-container {
+                            width: 60%;
+                        }
+                    }
+                    
+                    @media screen and (max-width: 380px) {
+                        .review-man-container {
+                            width: 70%;
+                        }
+                        .review-man__text-container h5 {
+                            font-size: 15px;
+                        }
+                        .review-man__text-container p:nth-child(2) {
+                            font-size: 13px;
+                        }
+                    }
+                    
+                    @media screen and (max-width: 360px) {
+                        .title-paragraph-container h3 {
+                            font-size: 30px;
+                        }
+                        .benefit__icon {
+                            width: 50px;
+                            height: 50px;
+                        }
+                        .benefit-text p {
+                            font-size: 15px;
+                            line-height: 120%;
+                        }
+                        .benefit-text h4 {
+                            font-size: 17px;
+                        }
+                        .about-us {
+                            height: min-content;
+                        }
+                        .about-us__text-container {
+                            padding: 20px;
+                            width: 95%;
+                        }
+                        .about-us__text-container h4 {
+                            font-size: 30px;
+                        }
+                        .about-us-container {
+                            flex-direction: column;
+                            height: min-content;
+                            padding-top: 70px;
+                            padding-bottom: 70px;
+                        }
+                        .about-us__text-container p {
+                            font-size: 15px;
+                            padding-top: 20px;
+                            padding-bottom: 20px;
+                        }
+                        .about-us__img-container {
+                            width: 95%;
+                            height: 230px;
+                            border-radius: 10%;
+                        }
+                        .about-us_btn {
+                            width: 140px;
+                            height: 45px;
+                            border-radius: 25px;
+                            font-size: 15px;
+                        }
+                        .review-cards-container {
+                            width: 85%;
+                        }
+                        .customer-review-container h4 {
+                            font-size: 30px;
+                        }
+                        .review-arrow-left,
+                        .review-arrow-right {
+                            width: 45px;
+                            height: 45px;
+                        }
+                        .footer-text-container {
+                            width: 70%;
+                        }
+                        .footer_community-container {
+                            width: 150px;
+                            padding: 30px 0 10px 0;
+                        }
+                        .footer_about-container {
+                            width: 150px;
+                            padding: 10px 0 10px 0;
+                        }
+                        .footer_contact-container {
+                            width: 150px;
+                            padding: 20px 0 20px 0;
+                        }
+                        .footer__logo-container p {
+                            padding-bottom: 10px;
+                            padding-top: 10px;
+                        }
+                        .footer__logo-container {
+                            padding-bottom: 0;
+                            margin-bottom: 50px;
+                        }
+                    }
