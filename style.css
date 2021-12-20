@@ -544,6 +544,7 @@ body {
     border-radius: 33px;
     transition: .3s ease-in-out;
     color: #ffffff;
+    cursor: pointer;
 }
 
 .wz__button:hover {
